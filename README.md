@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/andersoncoimbra/andersoncoimbra/assets/capa.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/andersoncoimbra/andersoncoimbra/blob/main/assets/capa.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I am an experienced PHP programmer with skills in algorithms and data structures, source code control, and database usage. I have the ability to work in a team, manage projects, and solve problems.</p>
