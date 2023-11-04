@@ -21,7 +21,7 @@
 
 <img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Frameworks Stack:
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 
