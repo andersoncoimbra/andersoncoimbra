@@ -21,7 +21,7 @@
 
 <img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Frameworks Stack:
+#### PHP Frameworks Stack:
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 
@@ -31,17 +31,21 @@
 #### Devops Stack:
 ![Git Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
 #### Databases: 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Copilot](https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=copilot&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
+
 
 &nbsp;
 &nbsp;
