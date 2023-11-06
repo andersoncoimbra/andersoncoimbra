@@ -25,6 +25,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 
+
 #### Mobile Stack:
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
@@ -42,7 +43,6 @@
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Copilot](https://img.shields.io/badge/copilot-000000?style=for-the-badge&logo=copilot&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
 
