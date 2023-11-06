@@ -25,6 +25,9 @@
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 
+### Mobile Stack:
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+
 
 #### Studying in this moment:
 
