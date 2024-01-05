@@ -19,7 +19,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 #### PHP Frameworks Stack:
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 
 #### Studying in this moment:
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/azure-132F3E?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/microsoftazure-132F3E?style=for-the-badge&logo=microsoftazure1&logoColor=white)&nbsp;
 
 #### Databases: 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
