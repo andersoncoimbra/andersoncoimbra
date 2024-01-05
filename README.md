@@ -36,7 +36,7 @@
 
 #### Studying in this moment:
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/microsoftazure-132F3E?style=for-the-badge&logo=microsoftazure1&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-132F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 
 #### Databases: 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
