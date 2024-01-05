@@ -30,18 +30,23 @@
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### Devops Stack:
-![Git Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Git Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-132F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 
 #### Databases: 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![AmazonRDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
