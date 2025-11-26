@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/andersoncoimbra/andersoncoimbra/blob/main/assets/capa.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I am an experienced PHP programmer with skills in algorithms and data structures, source code control, and database usage. I have the ability to work in a team, manage projects, and solve problems.</p>
+<p align="center">Sou um programador PHP experiente, com habilidades em algoritmos e estruturas de dados, controle de código-fonte e uso de bancos de dados. Tenho capacidade de trabalhar em equipe, gerenciar projetos e resolver problemas.</p>
 
  &nbsp;
  &nbsp;
